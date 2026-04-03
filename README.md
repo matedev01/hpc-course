@@ -13,6 +13,8 @@
 
 ---
 
+![Alt text](assets/image/HPC1.png)
+
 ## ⚡ Build Real High-Performance Systems (Not Just Theory)
 
 This repository is a **practical, engineering-focused course** on modern high-performance computing.
