@@ -1,3 +1,5 @@
+![Alt text](assets/image/HPC2.png)
+
 ### Chapter 1: C++ and SIMD (Vectorization)
 *Goal: Understand how a single CPU core processes multiple data points in one instruction.*
 
