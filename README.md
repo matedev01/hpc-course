@@ -183,7 +183,7 @@ By completing this course, you will:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/hpc-course.git
+git clone https://github.com/matedev01/hpc-course.git
 cd hpc-course
 ```
 
